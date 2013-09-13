@@ -15,3 +15,6 @@ Documentation
 
   
 Respect licensing models in sub directories!
+
+
+*oh, and remember to install yii framework*
