@@ -14,3 +14,4 @@ Documentation
   5. profit
 
   
+Respect licensing models in sub directories!
